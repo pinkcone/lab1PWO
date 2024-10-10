@@ -21,5 +21,6 @@ public class Main {
         for (int i = 0; i < 500; i++) {
             System.out.println("world!");
         }
+        System.out.println("tu bylo ale usuniete");
     }
 }
