@@ -9,6 +9,15 @@ public class Main {
         for (int i = 0; i < 500; i++) {
             System.out.println("world!");
         }
+        for (int i = 0; i < 500; i++) {
+            System.out.println("world!");
+        }
+        for (int i = 0; i < 500; i++) {
+            System.out.println("world!");
+        }
+        for (int i = 0; i < 500; i++) {
+            System.out.println("world!");
+        }
 
     }
 }
