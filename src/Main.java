@@ -23,5 +23,6 @@ public class Main {
         }
         System.out.println("new feature");
         System.out.println("new feature2");
+        System.out.println("new feature2");
     }
 }
